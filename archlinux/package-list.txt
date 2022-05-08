@@ -1,0 +1,10 @@
+git
+htop
+jdk-openjdk
+jre-openjdk
+neofetch
+python
+ruby
+rust
+sl
+tree
