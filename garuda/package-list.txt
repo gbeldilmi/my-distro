@@ -1,0 +1,16 @@
+desmume
+discord
+firefox-developer-edition
+github-desktop
+jdk-openjdk
+jre-openjdk
+libreoffice-fresh
+mgba-qt
+python
+ruby
+rust
+sl
+spotify
+tree
+vim
+visual-studio-code-bin
