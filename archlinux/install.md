@@ -16,7 +16,7 @@ timedatectl set-ntp true
 
 ## Partitions
 
-Code | Partition | Point de montage | Taille | Description
+Code | Partition | Mount point | Size | Description
 --- | --- | --- | --- | ---
 ef00 | /dev/sda1 | /boot/efi | 512Mo | EFI System
 8300 | /dev/sda2 | / | Remaining space | Linux filesystem
