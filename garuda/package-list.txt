@@ -2,6 +2,7 @@ desmume
 discord
 firefox-developer-edition
 github-desktop
+gping
 jdk-openjdk
 jre-openjdk
 libreoffice-fresh
