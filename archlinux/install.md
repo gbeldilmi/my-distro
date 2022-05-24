@@ -92,6 +92,15 @@ vim /etc/hostname # hostname
 
 ## Install GRUB
 
+### BIOS
+
+```sh
+grub-install --no-floppy --recheck /dev/sda
+grub-mkconfig -o /boot/grub/grub.cfg
+```
+
+### UEFI
+
 ```sh
 mount | grep efivars &> /dev/null || mount -t efivarfs efivarfs /sys/firmware/efi/efivars
 grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=grub --recheck
