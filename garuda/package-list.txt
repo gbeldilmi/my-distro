@@ -9,6 +9,7 @@ libreoffice-fresh
 mgba-qt
 python
 ruby
+ruby-docs
 rust
 sl
 spotify

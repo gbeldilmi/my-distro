@@ -5,6 +5,7 @@ jre-openjdk
 neofetch
 python
 ruby
+ruby-docs
 rust
 sl
 tree
